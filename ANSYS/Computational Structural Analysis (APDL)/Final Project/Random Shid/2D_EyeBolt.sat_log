@@ -1,0 +1,24 @@
+ 
+ *** ANSYS Connection for ACIS Log File ***
+ 
+   Version:    23.2 - ACIS 33.00
+   Build Date: 02/17/23
+   File:       .\Desktop\Senior Year\Fall Semester\ComputationalStructuralAnalysis_4502\Final Project\\2D_EyeBolt.SAT
+ 
+
+ Translation Summary:
+
+ Topological Entities:
+ Vertices:      0                 Loops:       0
+ Edges:         0                 Shells:      0
+ Faces:         0
+ B-reps:        0
+
+ Geometric Entities:
+ Curves:                        Surfaces:
+ NURBS:          0              NURBS:          0
+ Lines:          0              Planes:         0
+ Circles:        0              Cylinders:      0
+ Ellipses:       0              Cones:          0
+                                Spheres:        0
+                                Tori:           0

@@ -1,0 +1,25 @@
+/com,
+/com,   *** ACIS-TO-ANSYS GEOMETRY NEUTRAL FILE ***
+/com,
+/com,    Version:     23.2 - ACIS 33.00
+/com,    Build Date:  02/17/23
+/com,
+/com,    File:        .\Desktop\Senior Year\Fall Semester\ComputationalStructuralAnalysis_4502\Final Project\\2D_EyeBolt.SAT
+/com,
+/title, File: 2D_EyeBolt
+/aux15
+/face,wire
+/out, '2D_EyeBolt', ans_log
+*get, _sav1,common,,errcom,,int,6
+*get, _sav2,common,,errcom,,int,7
+_sav3=erinqr(27)
+*get, _sav4,common,,ertrkcm,,int,1
+/nerr,,,,,0
+*GET, _z1, ACTIVE,, KEYWORD,,PRIGES
+*if, _z1,gt,0,then
+*msg,error
+Current geometry must be cleared (/CLEAR) before importing
+*else
+*endif 
+/nerr,_sav1,_sav2,,_sav3,_sav4
+/out

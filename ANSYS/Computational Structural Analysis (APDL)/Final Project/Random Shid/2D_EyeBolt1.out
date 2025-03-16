@@ -1,0 +1,262 @@
+
+ PRINTOUT RESUMED BY /GOP
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ PRINTOUT RESUMED BY /GOP
+
+                      L O A D   S T E P   O P T I O N S
+
+   LOAD STEP NUMBER. . . . . . . . . . . . . . . .     1
+   TIME AT END OF THE LOAD STEP. . . . . . . . . .  1.0000    
+   NUMBER OF SUBSTEPS. . . . . . . . . . . . . . .     1
+   STEP CHANGE BOUNDARY CONDITIONS . . . . . . . .    NO
+   PRINT OUTPUT CONTROLS . . . . . . . . . . . . .NO PRINTOUT
+   DATABASE OUTPUT CONTROLS. . . . . . . . . . . .ALL DATA WRITTEN
+                                                  FOR THE LAST SUBSTEP
+
+
+
+  Process memory allocated for solver              =     1.422 MB
+  Process memory required for in-core solution     =     1.370 MB
+  Process memory required for out-of-core solution =     1.152 MB
+
+ *** NOTE ***                            CP =       8.062   TIME= 01:18:03
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1      1002  PLANE183      0.141   0.000140
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1      1002  PLANE183      0.000   0.000000
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** MAPDL BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+        0.250 MB WRITTEN ON ASSEMBLED MATRIX FILE: 2D_EyeBolt1.full
+        0.438 MB WRITTEN ON RESULTS FILE: 2D_EyeBolt1.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         8.266
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         8.438
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         8.438
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         8.438
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+
+  Process memory allocated for solver              =     1.422 MB
+  Process memory required for in-core solution     =     1.370 MB
+  Process memory required for out-of-core solution =     1.152 MB
+
+ *** NOTE ***                            CP =       8.594   TIME= 01:26:54
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1      1002  PLANE183      0.141   0.000140
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1      1002  PLANE183      0.016   0.000016
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** MAPDL BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+        0.250 MB WRITTEN ON ASSEMBLED MATRIX FILE: 2D_EyeBolt1.full
+        0.438 MB WRITTEN ON RESULTS FILE: 2D_EyeBolt1.rst
+
+ *** MAPDL - ENGINEERING ANALYSIS SYSTEM  RELEASE 2023 R2          23.2     ***
+ Ansys Mechanical Enterprise                       
+ 00000000  VERSION=WINDOWS x64   01:28:52  DEC 11, 2023 CP=      8.891
+
+                                                                               
+
+
+
+ *** LOAD STEP     2   SUBSTEP     1  COMPLETED.    CUM ITER =      2
+ *** TIME =   2.00000         TIME INC =   1.00000      OLD TRIANG MATRIX
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         9.109
+
+
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         9.234
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+
+  Process memory allocated for solver              =     1.422 MB
+  Process memory required for in-core solution     =     1.370 MB
+  Process memory required for out-of-core solution =     1.152 MB
+
+ *** NOTE ***                            CP =       9.406   TIME= 01:35:47
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1      1002  PLANE183      0.109   0.000109
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1      1002  PLANE183      0.078   0.000078
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** MAPDL BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+        0.250 MB WRITTEN ON ASSEMBLED MATRIX FILE: 2D_EyeBolt1.full
+        0.438 MB WRITTEN ON RESULTS FILE: 2D_EyeBolt1.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         9.641
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         9.672
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+
+  Process memory allocated for solver              =     1.422 MB
+  Process memory required for in-core solution     =     1.370 MB
+  Process memory required for out-of-core solution =     1.152 MB
+
+ *** NOTE ***                            CP =       9.766   TIME= 01:39:59
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1      1002  PLANE183      0.125   0.000125
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1      1002  PLANE183      0.031   0.000031
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** MAPDL BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+        0.250 MB WRITTEN ON ASSEMBLED MATRIX FILE: 2D_EyeBolt1.full
+        0.438 MB WRITTEN ON RESULTS FILE: 2D_EyeBolt1.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        10.000
+
+
+
+
+ NUMBER OF WARNING MESSAGES ENCOUNTERED=          0
+ NUMBER OF ERROR   MESSAGES ENCOUNTERED=          0
+
+
+ *-----------------------------------------------------------------------------*
+ |                                                                             |
+ |                               RUN COMPLETED                                 |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |  Ansys MAPDL 2023 R2         Build 23.2         UP20230531    WINDOWS x64   |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |  Database Requested(-db)     1 MB     Scratch Memory Requested       240 MB |
+ |  Maximum Database Used       1 MB     Maximum Scratch Memory Used     44 MB |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |        CP Time      (sec) =         10.562       Time  =  01:46:17          |
+ |        Elapsed Time (sec) =       2063.000       Date  =  12/11/2023        |
+ |                                                                             |
+ *-----------------------------------------------------------------------------*

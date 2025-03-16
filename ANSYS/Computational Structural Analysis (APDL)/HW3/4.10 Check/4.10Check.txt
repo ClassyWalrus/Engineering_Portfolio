@@ -1,0 +1,44 @@
+/FILNAM, 4.10 Check
+/title, 1D Beam
+/prep7
+
+n, 1, 0.0, 0.0, 0.0
+n, 2, 3.0, 0.0, 0.0 
+n, 3, 6.0, 0.0, 0.0 
+
+
+et, 1, beam188
+
+! Material Properties
+mp, ex, 1, 210e9
+mp, prxy, 1, 0.3
+
+keyopt, 1, 3, 3
+keyopt, 1, 4, 2
+
+sectype, 1, beam, rect
+secdata, 0.263214806, 0.263214806
+
+! element connection and orientation
+en, 1, 1, 2
+en, 2, 2, 3
+
+! Displacement boundary conditions
+d, 1, all, 0.0
+d, 3, all, 0.0
+
+
+! (We could have used d, 1, all, 0.0 to define all root restraints.)
+
+! Applied Force
+f, 2, fy, -20000.0
+f, 2, mz, 20000.0
+finish
+
+/solu
+antype, static
+solve
+save
+finish
+
+/post1

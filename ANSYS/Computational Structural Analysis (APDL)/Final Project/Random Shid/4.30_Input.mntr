@@ -1,0 +1,11 @@
+
+
+
+ SOLUTION HISTORY INFORMATION FOR JOB: 4.30_Input.mntr                                                                                                                                                                                                                                                     
+ ANSYS RELEASE 2023 R2          BUILD 23.2        01:23:38    11/02/2023
+
+  LOAD   SUB-  NO.  NO.    TOTL  INCREMENT    TOTAL         VARIAB 1     VARIAB 2     VARIAB 3     VARIAB 4
+  STEP   STEP ATTMP ITER   ITER  TIME/LFACT   TIME/LFACT    MONITOR      MONITOR      MONITOR     MONITOR
+                                                             Wall         MxDs         MxPl         MxRe
+
+     1      1    1     1      1     1.0000       1.0000      0.30766E-01 -0.27296E-02   0.0000       0.0000    

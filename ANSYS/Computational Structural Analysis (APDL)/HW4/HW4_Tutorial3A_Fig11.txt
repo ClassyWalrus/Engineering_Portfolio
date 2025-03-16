@@ -1,0 +1,25 @@
+/FILNAM, Tutorial3A
+/title, Pressure Vessel Geometry
+/prep7
+
+k, 1, 75.,0.                   !Keypoint 1 is at 75.0, 0.0
+k, 2, 100., 0. 
+k, 3, 100., 200. 
+k, 4, 0., 200. 
+k, 5, 0., 175. 
+k, 6, 50., 175. 
+k, 7, 75., 150. 
+k, 8, 50., 150.
+
+
+L, 7, 1                        !Line from keypoints 7 to 1
+L, 1, 2
+L, 2, 3
+L, 3, 4
+L, 4, 5
+L, 5, 6
+
+larc, 7, 6, 8, 25.              !Fillet arc
+
+AL, 1, 2, 3, 4, 5, 6, 7         !Area defined by lines 1 thru 7
+

@@ -1,0 +1,22 @@
+Truss design analysis report.
+
+Report for: davie378
+Generated at 03-Apr-2023 02:46:49
+
+Loaded design file: truss_davie378.mat
+
+Constraint 2.1.1:
+	Assuming conformance
+	** OK **
+
+Constraint 2.1.2:
+	Number of Nodes: 44
+	Number of Bars:  122
+	** OK **
+
+
+Performing analysis of loaded/deformed structure:
+Unable to successfully execute "PD_truss_static".
+
+	** VIOLATION **
+Truss design does *NOT* satisfy all requirements.

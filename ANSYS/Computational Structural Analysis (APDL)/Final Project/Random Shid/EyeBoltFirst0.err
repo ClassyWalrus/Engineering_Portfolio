@@ -1,0 +1,99 @@
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       22:40:16
+
+ *** WARNING ***                         CP =      13.781   TIME= 22:43:40
+ Structural elements without mid nodes usually produce much more         
+ accurate results in quad or brick shape.                                
+
+ *** WARNING ***                         CP =      17.375   TIME= 22:44:54
+ Mid-nodes of some elements have been modified to lie on straight edges  
+ because of distortion with the original mid-nodes.  This condition is   
+ sometimes eliminated by tetrahedron element improvement when enabled.   
+ Issue ESEL,,STRAIGHTENED to select such elements for listing or         
+ plotting.                                                               
+
+ *** WARNING ***                         CP =      17.734   TIME= 22:44:54
+ Shape testing revealed that 2 of the 24472 new or modified elements     
+ violate shape warning limits.  To review test results, please see the   
+ output file or issue the CHECK command.                                 
+
+ *** WARNING ***                         CP =      31.391   TIME= 23:13:33
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+
+ *** WARNING ***                         CP =      34.125   TIME= 23:13:39
+ The Distributed Sparse Matrix Solver is currently running in the        
+ out-of-core memory mode.  This memory mode may provide significantly    
+ worse performance compared to the in-core memory mode, depending on     
+ the amount of available system memory and I/O speed.  Please monitor    
+ the solver performance to ensure that the large amount of I/O to the    
+ solver files does not create a bottleneck for performance.              
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       20:53:12
+
+ *** WARNING ***                         CP =      20.953   TIME= 21:06:20
+ Selected areas attached to line 60 are not meshed.  Surface load PRES   
+ on this line is not transferred.  Loads will be transferred to meshed   
+ areas attached to this line.                                            
+
+ *** WARNING ***                         CP =      20.953   TIME= 21:06:20
+ Selected areas attached to line 61 are not meshed.  Surface load PRES   
+ on this line is not transferred.  Loads will be transferred to meshed   
+ areas attached to this line.                                            
+
+ *** WARNING ***                         CP =      21.141   TIME= 21:06:21
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+
+ *** WARNING ***                         CP =      23.797   TIME= 21:06:27
+ The Distributed Sparse Matrix Solver is currently running in the        
+ out-of-core memory mode.  This memory mode may provide significantly    
+ worse performance compared to the in-core memory mode, depending on     
+ the amount of available system memory and I/O speed.  Please monitor    
+ the solver performance to ensure that the large amount of I/O to the    
+ solver files does not create a bottleneck for performance.              
+
+ *** WARNING ***                         CP =      58.109   TIME= 22:02:16
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+
+ *** WARNING ***                         CP =      61.594   TIME= 22:02:27
+ The Distributed Sparse Matrix Solver is currently running in the        
+ out-of-core memory mode.  This memory mode may provide significantly    
+ worse performance compared to the in-core memory mode, depending on     
+ the amount of available system memory and I/O speed.  Please monitor    
+ the solver performance to ensure that the large amount of I/O to the    
+ solver files does not create a bottleneck for performance.              
+
+ *** WARNING ***                         CP =      83.516   TIME= 22:13:20
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+
+ *** WARNING ***                         CP =     102.562   TIME= 22:45:01
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       23:03:01
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       01:55:29
+
+ *** WARNING ***                         CP =       7.438   TIME= 01:56:14
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+
+ *** WARNING ***                         CP =      47.609   TIME= 02:06:51
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+
+ *** WARNING ***                         CP =      80.797   TIME= 02:13:44
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+
+ *** WARNING ***                         CP =     113.312   TIME= 02:18:45
+ Previous testing revealed that 2 of the 24472 selected elements violate 
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       

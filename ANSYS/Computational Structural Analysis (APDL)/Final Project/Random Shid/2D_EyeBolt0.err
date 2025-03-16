@@ -1,0 +1,17 @@
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       20:10:58
+
+ *** WARNING ***                         CP =      11.344   TIME= 20:15:00
+ Line 16 has no nodes associated with it.  Constraint not transferred.   
+
+ *** ERROR ***                           CP =      11.359   TIME= 20:15:00
+ There are no nodes defined.                                             
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       20:38:51
+
+ *** WARNING ***                         CP =       7.812   TIME= 20:50:06
+ There are no active degrees of freedom.                                 
+
+ *** ERROR ***                           CP =       9.953   TIME= 20:51:14
+ Element type 1 is SOLID187, which can not be used with the AMESH        
+ command.  Meshing of area 2 aborted.                                    
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       22:51:56
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       01:13:26

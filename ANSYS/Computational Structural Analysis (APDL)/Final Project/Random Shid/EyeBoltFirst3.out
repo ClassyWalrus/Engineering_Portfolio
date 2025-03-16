@@ -1,0 +1,239 @@
+
+ PRINTOUT RESUMED BY /GOP
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+                      L O A D   S T E P   O P T I O N S
+
+   LOAD STEP NUMBER. . . . . . . . . . . . . . . .     1
+   TIME AT END OF THE LOAD STEP. . . . . . . . . .  1.0000    
+   NUMBER OF SUBSTEPS. . . . . . . . . . . . . . .     1
+   STEP CHANGE BOUNDARY CONDITIONS . . . . . . . .    NO
+   PRINT OUTPUT CONTROLS . . . . . . . . . . . . .NO PRINTOUT
+   DATABASE OUTPUT CONTROLS. . . . . . . . . . . .ALL DATA WRITTEN
+                                                  FOR THE LAST SUBSTEP
+
+
+
+ *** NOTE ***                            CP =       6.625   TIME= 01:56:19
+ The initial memory allocation (-m) has been exceeded.                   
+  Supplemental memory allocations are being used.                        
+
+  Process memory allocated for solver              =   299.027 MB
+  Process memory required for in-core solution     =   285.776 MB
+  Process memory required for out-of-core solution =    87.441 MB
+
+ *** NOTE ***                            CP =       6.625   TIME= 01:56:19
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     24472  SOLID187      3.531   0.000144
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     24472  SOLID187      0.875   0.000036
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** MAPDL BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+       14.188 MB WRITTEN ON ASSEMBLED MATRIX FILE: EyeBoltFirst3.full
+        5.125 MB WRITTEN ON RESULTS FILE: EyeBoltFirst3.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        15.906
+
+
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        15.938
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+
+  Process memory allocated for solver              =   299.027 MB
+  Process memory required for in-core solution     =   285.776 MB
+  Process memory required for out-of-core solution =    87.441 MB
+
+ *** NOTE ***                            CP =      17.969   TIME= 02:06:57
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     24472  SOLID187      3.406   0.000139
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     24472  SOLID187      0.969   0.000040
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** MAPDL BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+       14.188 MB WRITTEN ON ASSEMBLED MATRIX FILE: EyeBoltFirst3.full
+        5.125 MB WRITTEN ON RESULTS FILE: EyeBoltFirst3.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        26.031
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        26.078
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ PRINTOUT RESUMED BY /GOP
+
+
+  Process memory allocated for solver              =   299.027 MB
+  Process memory required for in-core solution     =   285.776 MB
+  Process memory required for out-of-core solution =    87.441 MB
+
+ *** NOTE ***                            CP =      28.406   TIME= 02:13:49
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     24472  SOLID187      3.453   0.000141
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     24472  SOLID187      0.875   0.000036
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** MAPDL BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+       14.188 MB WRITTEN ON ASSEMBLED MATRIX FILE: EyeBoltFirst3.full
+        5.125 MB WRITTEN ON RESULTS FILE: EyeBoltFirst3.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        38.000
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        38.031
+
+
+
+ *****  MAPDL SOLUTION ROUTINE  *****
+
+ PRINTOUT RESUMED BY /GOP
+
+
+  Process memory allocated for solver              =   299.027 MB
+  Process memory required for in-core solution     =   285.776 MB
+  Process memory required for out-of-core solution =    87.441 MB
+
+ *** NOTE ***                            CP =      40.438   TIME= 02:18:49
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     24472  SOLID187      3.328   0.000136
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1     24472  SOLID187      0.953   0.000039
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** MAPDL BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+       14.188 MB WRITTEN ON ASSEMBLED MATRIX FILE: EyeBoltFirst3.full
+        5.125 MB WRITTEN ON RESULTS FILE: EyeBoltFirst3.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =        48.844
+
+
+
+
+ NUMBER OF WARNING MESSAGES ENCOUNTERED=          0
+ NUMBER OF ERROR   MESSAGES ENCOUNTERED=          0
+
+
+ *-----------------------------------------------------------------------------*
+ |                                                                             |
+ |                               RUN COMPLETED                                 |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |  Ansys MAPDL 2023 R2         Build 23.2         UP20230531    WINDOWS x64   |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |  Database Requested(-db)     1 MB     Scratch Memory Requested       240 MB |
+ |  Maximum Database Used       1 MB     Maximum Scratch Memory Used    334 MB |
+ |                                                                             |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ |        CP Time      (sec) =         49.469       Time  =  02:23:50          |
+ |        Elapsed Time (sec) =       1731.000       Date  =  12/11/2023        |
+ |                                                                             |
+ *-----------------------------------------------------------------------------*
