@@ -6,7 +6,7 @@ Welcome to my repository! This is a collection of the CAD designs, code, and sim
 
 * Code: Here you will find all the scripts and algorithms I’ve written, mostly in MATLAB, Python, and C++, for the analysis, simulation, and control of aerospace systems. The code includes simulations for flight dynamics, control systems, aerodynamics, and numerical methods, often paired with theoretical analysis.
 
-* Simulations: This folder contains simulation results and files from different projects. They may be related to finite element analysis (FEA), computational fluid dynamics (CFD), or any other simulations I’ve conducted for understanding and testing aerospace system behaviors. I have used tools such as ANSYS, RAS-Aero II, and MATLAB for these simulations.
+* Simulations: This folder contains simulation results and files from different projects. They may be related to finite element analysis (FEA), computational fluid dynamics (CFD), or any other simulations I’ve conducted for understanding and testing aerospace system behaviors. Some of these simulations have been left in their parent project folder for my own organization. I have used tools such as ANSYS, RAS-Aero II, and MATLAB for these simulations.
 
 ### Purpose
 The purpose of this repository is to showcase the skills I’ve developed over the years, both in the theoretical and practical aspects of aerospace engineering. It also serves as a portfolio of my growth as an engineer, from initial design concepts all the way to simulation and optimization.
