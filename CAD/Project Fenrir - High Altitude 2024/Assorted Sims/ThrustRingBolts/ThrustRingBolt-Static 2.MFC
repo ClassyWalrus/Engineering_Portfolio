@@ -1,0 +1,16 @@
+[StartTime]
+ThrustRingBolt-Static 2.MFC=7s
+[SolverState]
+ThrustRingBolt-Static 2.MFC=2
+[MainFrame]
+ThrustRingBolt-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+ThrustRingBolt-Static 2.MFC=No
+[SolverType]
+ThrustRingBolt-Static 2.MFC=Linear Analysis
+[StudyType]
+ThrustRingBolt-Static 2.MFC=0
+[StudyName]
+ThrustRingBolt-Static 2.MFC=Static 2
+[Solver]
+ThrustRingBolt-Static 2.MFC=Sparse
